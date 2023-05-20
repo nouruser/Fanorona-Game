@@ -1,0 +1,22 @@
+
+                       _____ _   _ ______ ____   _____ 
+                      |_   _| \ | |  ____/ __ \ / ____|
+                        | | |  \| | |__ | |  | | (___  
+                        | | | . ` |  __|| |  | |\___ \ 
+                       _| |_| |\  | |   | |__| |____) |
+                      |_____|_| \_|_|    \____/|_____/ 
+
+
+
+ -Le jeu FANORONA est un jeu national de societe conbinatoire abstrait de l'ile de   
+ Madagascar et a ete derive de le jeu 'Alquerque' qui pourrait avoir plus de 3000 ans.    
+ -Fanorona a trois versions standard :
+     +Fanoron-Telo
+     +Fanoron-Dimyand  
+     +Fanoron-Tsivy
+ -La difference entre ces variantes est la taille du plateau joue.     
+ -Fanoron-Telo se joue sur un Plateau 3 * 3 et la difficulte de ce jeu peut etre 
+  comparee au jeu du tic-tac-toe. 
+ -Fanoron-Dimyand se joue sur un plateau 5 * 5.     
+ -Fanoron-Tsivy est joue sur un plateau 9 * 5.    
+ -Nous appellerons Fanoron-Tsivy simplement ' Fanorona '. 

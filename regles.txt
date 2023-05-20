@@ -1,0 +1,22 @@
+
+                     _____  ______ _____ _      ______  _____ 
+                    |  __ \|  ____/ ____| |    |  ____|/ ____|
+                    | |__) | |__ | |  __| |    | |__  | (___  
+                    |  _  /|  __|| | |_ | |    |  __|  \___ \ 
+                    | | \ \| |___| |__| | |____| |____ ____) |
+                    |_|  \_\______\_____|______|______|_____/ 
+
+
+     
+-L'objet du jeu e-fanorona est de manger ou d'immobiliser toutes les pions advreses ou 
+ de  faire en sorte qu'ils ne puisent plus se deplacer pour gagner le jeu .
+- Chaque pion peut se deplacer dans toutes les directions, en suivant le trace des lignes
+ de son point  d'origine vers une intersection adjacente libre.  
+- Un pion ne peut sauter au dessus d'un autre. 
+- La prise de pion, quand elle est possible, doit etre obligatoirement jouee.  
+- Un pion peut effectuer une prise si un ou plusiers pions adverses se trouvent sur sa   
+ lignede  depacement et que le pion joue vient au contact des pions adverses (Percussion)   
+ ou s'en eloigne (Aspiration). 
+- Tout pion capture est enleve du jeu.   
+- Seule la premiere prise est obligatoire.
+
